@@ -10,7 +10,7 @@ export default function Dashboard() {
   ];
 
   return (
-    <div className="min-h-screen bg-slate-50 flex">
+    <div className="min-h-screen bg-slate-50 flex font-sans">
       {/* Sidebar */}
       <aside className="w-64 bg-slate-900 text-white p-6 hidden lg:block">
         <h1 className="text-2xl font-bold mb-10 text-blue-400">MegaDent<span className="text-white">+</span></h1>
