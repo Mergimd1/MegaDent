@@ -1,5 +1,9 @@
-
 import './globals.css'
+
+export const metadata = {
+  title: 'MegaDent+',
+  description: 'Sistemi për klinika dentare',
+}
 
 export default function RootLayout({
   children,
